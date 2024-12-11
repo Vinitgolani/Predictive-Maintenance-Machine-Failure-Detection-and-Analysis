@@ -90,7 +90,7 @@ This dataset contains sensor data collected from various machines, with the goal
 ## 🖼️ Visualizations
 
 ### Machine Failures by Sensor Data
-![Sample Visualization](https://via.placeholder.com/600x400.png?text=Sample+Visualization)  
+![Sample Visualization](temp_vs_fail.png)  
 
 ---
 
@@ -100,14 +100,9 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📬 Contact
 
 For questions or suggestions, please contact:
-- **Your Name**: [Your Email](mailto:your.email@example.com)
-- GitHub: [Your Profile](https://github.com/yourusername)
+- Vinit Golani: [vinit.b.golani@gmail.com](mailto:vinit.b.golani@gmail.com)
+- GitHub: [Vinitgolani](https://github.com/Vinitgolani)
+- LinkedIn: [vinitgolani](https://www.linkedin.com/in/vinitgolani/)
